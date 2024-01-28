@@ -1,23 +1,23 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucca+Hiratsuca+Costa;I'm+19+years+old;I´m+from+Brasil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+André+Bettencourt;I'm+24+years+old;I´m+from+Brasil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luccahiratsuca&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Lucca Hiratsuca github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccahiratsuca&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luccahiratsuca&&theme=tokyonight" alt="luccahiratsuca" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=andrebettencourt7&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="André Bettencourt github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrebettencourt7&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrebettencourt&&theme=tokyonight" alt="andrebettencourt" />
 </div>
 
 
 
-[![Lucca's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luccahiratsuca&bg_color=0d1117&color=ffffff&line=058082&point=a2ecfb&area=true&hide_border=true)](https://github.com/luccahiratsuca/github-readme-activity-graph)
+[![André's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andrebettencourt7&bg_color=0d1117&color=ffffff&line=058082&point=a2ecfb&area=true&hide_border=true)](https://github.com/andrebettencourt7/github-readme-activity-graph)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luccahiratsuca" alt="luccahiratsuca" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrebettencourt7" alt="andrebettencourt7" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/lucca-hiratsuca-b52295202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
-<a href="https://www.instagram.com/lucca_hiratsuca/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,7 +25,7 @@
 
 <div>
   <h3 align="left">Support:</h3>
-  <p><a href="https://www.buymeacoffee.com/luccahiratsuca"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="luccahiratsuca" /></a></p>
+  <p><a href="https://www.buymeacoffee.com"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="andrebettencourt7" /></a></p>
   <br/>
   <br/>
 </div>
@@ -33,9 +33,9 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{luccahiratsuca}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{andrebettencourt7}/count.svg" /></p> 
 <br></div>
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=luccahiratsuca&label=Profile%20views&color=08565a&style=flat" alt="luccahiratsuca" /> </p> -->
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=andrebettencourt7&label=Profile%20views&color=08565a&style=flat" alt="andrebettencourt7" /> </p> -->
  
 
 
