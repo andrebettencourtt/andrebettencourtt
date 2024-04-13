@@ -3,16 +3,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+André+Bettencourt;I'm+24+years+old;I´m+from+Brasil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=andrebettencourt7&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="André Bettencourt github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrebettencourt7&layout=compact&hide_border=true&title_color=ffffff&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=andrebettencourtt&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="André Bettencourt github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrebettencourtt&layout=compact&hide_border=true&title_color=ffffff&text_color=00bfbf&bg_color=0d1117" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrebettencourt&&theme=tokyonight" alt="andrebettencourt" />
 </div>
 
 
 
-[![André's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andrebettencourt7&bg_color=0d1117&color=ffffff&line=058082&point=a2ecfb&area=true&hide_border=true)](https://github.com/andrebettencourt7/github-readme-activity-graph)
+[![André's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andrebettencourt7&bg_color=0d1117&color=ffffff&line=058082&point=a2ecfb&area=true&hide_border=true)](https://github.com/andrebettencourtt/github-readme-activity-graph)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrebettencourt7" alt="andrebettencourt7" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrebettencourtt" alt="andrebettencourtt" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,7 +26,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{andrebettencourt7}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{andrebettencourtt}/count.svg" /></p> 
 <br></div>
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=andrebettencourt7&label=Profile%20views&color=08565a&style=flat" alt="andrebettencourt7" /> </p> -->
  
