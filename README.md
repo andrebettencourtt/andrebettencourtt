@@ -9,8 +9,8 @@
 </div>
 
 
-
 [![André's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andrebettencourtt&bg_color=0d1117&color=ffffff&line=058082&point=a2ecfb&area=true&hide_border=true)](https://github.com/andrebettencourtt/github-readme-activity-graph)
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrebettencourtt" alt="andrebettencourtt" /></a> </p>
 
