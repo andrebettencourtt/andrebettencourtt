@@ -1,20 +1,17 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=61dafb&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+André+Bettencourt;I'm+24+years+old;I´m+from+Brasil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=61dafb&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+André+Bettencourt;I'm+24+years+old;I´m+from+Brasil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=andrebettencourtt&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="André Bettencourt github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrebettencourtt&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrebettencourtt&&theme=tokyonight" alt="andrebettencourtt" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=andrebettencourtt&show_icons=true&count_private=true&hide_border=true&title_color=61dafb&icon_color=61dafb&text_color=c9d1d9&bg_color=0d1117" alt="André Bettencourt github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrebettencourtt&layout=compact&hide_border=true&title_color=61dafb&text_color=61dafb&bg_color=0d1117" /></br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrebettencourtt&&theme=react" alt="andrebettencourtt" />
 </div>
 
 
 [![André's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andrebettencourtt&bg_color=0d1117&color=ffffff&line=058082&point=a2ecfb&area=true&hide_border=true)](https://github.com/andrebettencourtt/github-readme-activity-graph)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=andrebettencourtt&theme=algolia)](https://github.com/andrebettencourtt)
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrebettencourtt&theme=algolia" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrebettencourtt&theme=tokyonight" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,12 +23,4 @@
 
 <br>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{andrebettencourtt}/count.svg" /></p> 
-<br></div>
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=andrebettencourt7&label=Profile%20views&color=08565a&style=flat" alt="andrebettencourt7" /> </p> -->
- 
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=61dafb&height=120&section=footer"/>
