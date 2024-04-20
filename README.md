@@ -3,10 +3,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+André+Bettencourt;I'm+24+years+old;I´m+from+Brasil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="![](https://github-readme-stats.vercel.app/api?username=andrebettencourtt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)" /> 
-  <img width="41%" height="195px" src="![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrebettencourtt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)" />
-  <img align="center" src="![](https://github-readme-streak-stats.herokuapp.com/?user=andrebettencourtt&theme=dark&hide_border=false)" alt="andrebettencourt" />
+  ![](https://github-readme-stats.vercel.app/api?username=andrebettencourtt&theme=react&hide_border=true&include_all_commits=false&count_private=true)
+<br>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=andrebettencourtt&theme=react&hide_border=true)
+<br>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrebettencourtt&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 </div>
+
+![](https://github-readme-stats.vercel.app/api?username=PedroCosta2023&theme=react&hide_border=true&include_all_commits=false&count_private=true)
+<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PedroCosta2023&theme=react&hide_border=true)
+<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCosta2023&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
 [![André's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andrebettencourtt&bg_color=0d1117&color=ffffff&line=058082&point=a2ecfb&area=true&hide_border=true)](https://github.com/andrebettencourtt/github-readme-activity-graph)
