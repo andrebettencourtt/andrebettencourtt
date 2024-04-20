@@ -2,25 +2,19 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+André+Bettencourt;I'm+24+years+old;I´m+from+Brasil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  ![](https://github-readme-stats.vercel.app/api?username=andrebettencourtt&theme=react&hide_border=true&include_all_commits=false&count_private=true)
-<br>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=andrebettencourtt&theme=react&hide_border=true)
-<br>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrebettencourtt&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-</div>
 
-![](https://github-readme-stats.vercel.app/api?username=PedroCosta2023&theme=react&hide_border=true&include_all_commits=false&count_private=true)
-<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PedroCosta2023&theme=react&hide_border=true)
-<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCosta2023&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=andrebettencourtt&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="André Bettencourt github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrebettencourtt&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrebettencourtt&&theme=tokyonight" alt="andrebettencourtt" />
+</div>
 
 
 [![André's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andrebettencourtt&bg_color=0d1117&color=ffffff&line=058082&point=a2ecfb&area=true&hide_border=true)](https://github.com/andrebettencourtt/github-readme-activity-graph)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=andrebettencourtt&theme=algolia)](https://github.com/andrebettencourtt)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrebettencourtt" alt="andrebettencourtt" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrebettencourtt&theme=algolia" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
