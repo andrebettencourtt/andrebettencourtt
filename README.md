@@ -11,9 +11,9 @@
 <br><br>
 
 ## Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/andr%C3%A9-luis-bettencourt-a12224168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
-</p>
+<div align="left">
+    <a href="https://www.linkedin.com/in/andre-bettencourt/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a><br>
+</div>
 
 ## Languages and Tools 
 <div align="center">
