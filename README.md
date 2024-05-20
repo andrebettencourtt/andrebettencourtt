@@ -10,12 +10,12 @@
 
 <br><br>
 
-## Connect with me
+## Connect with me:
 <div align="left">
     <a href="https://www.linkedin.com/in/andre-bettencourt/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a><br>
 </div>
 
-## Languages and Tools 
+## Languages and Tools:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,java,mysql,azure" /><br>
