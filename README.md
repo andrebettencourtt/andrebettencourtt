@@ -8,7 +8,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrebettencourtt&&theme=react" alt="andrebettencourtt" />
 </div>
 
-<br><br>
+<br>
 
 ## Connect with me:
 <div align="left">
