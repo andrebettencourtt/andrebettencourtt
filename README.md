@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=61dafb&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+André+Bettencourt;I'm+24+years+old;I´m+from+Brasil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<br> 
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=andrebettencourtt&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=andrebettencourtt&layout=compact&theme=radical"/>
